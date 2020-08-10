@@ -1,0 +1,3 @@
+numpy
+Chalice
+Boto3
